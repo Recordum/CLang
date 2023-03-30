@@ -1,0 +1,1 @@
+#include "pointer_typeCast.h"#include <stdio.h>int main(void){    printf("makeFile Test\n");    little_endian();    return 0;}
