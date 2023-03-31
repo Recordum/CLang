@@ -3,7 +3,6 @@
 
 typedef struct {
     int value;
-    int index;
     struct Node *next_node;
 } Node;
 
